@@ -76,4 +76,4 @@ export default {
 
 ## 正式开始Vue教学
 
-[vue中的数据绑定与指令](http://localhost:3000/#/start)
+[vue中的数据绑定与指令](https://wuhaohao1234.github.io/Teaching/#/start)

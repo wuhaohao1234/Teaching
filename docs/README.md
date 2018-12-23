@@ -101,4 +101,4 @@ $("#userName").on("keyup",function(){
     与之前的项目对比 package-lock.json 文件，发现 webpack-dev-server 的版本从 3.1.10 -> 3.1.11 
     
 ## 进入下一章教学
-[vue项目目录介绍与还原教学环境](http://localhost:3000/#/Vue)
+[vue项目目录介绍与还原教学环境](https://wuhaohao1234.github.io/Teaching/#/Vue)

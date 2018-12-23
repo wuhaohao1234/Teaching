@@ -159,4 +159,4 @@ export default {
 
 ## Vue组件
 
-[Vue组件](http://localhost:3000/#/component)
+[Vue组件](https://wuhaohao1234.github.io/Teaching/#/component)

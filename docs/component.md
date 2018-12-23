@@ -224,4 +224,4 @@ console.log(this.$refs.child.dbClick)
 
 ## vue计算属性与监听器
 
-[vue计算属性与监听器](http://localhost:3000/#/watch)
+[vue计算属性与监听器](https://wuhaohao1234.github.io/Teaching/#/watch)

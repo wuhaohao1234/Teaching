@@ -138,5 +138,4 @@ export default {
 ```
 
 ## VueRouter
-
-[VueRouter](http://localhost:3000/#/router)
+[VueRouter](https://wuhaohao1234.github.io/Teaching/#/router)

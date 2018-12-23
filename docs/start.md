@@ -587,5 +587,5 @@ export default {
 ``` 
 ## vue生命周期
 
-[vue生命周期](http://localhost:3000/#/lifeCycle)
+[vue生命周期](https://wuhaohao1234.github.io/Teaching/#/lifeCycle)
     
