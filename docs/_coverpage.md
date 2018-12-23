@@ -1,7 +1,7 @@
 # Vue教学文档(吴昊)
 
 [教程](http://localhost:3000/#/Vue)
-[快速开始](#quick-start)
+[认识Vue并搭建环境](#认识Vue并搭建环境)
 [官方文档](https://cn.vuejs.org/)
 <!-- 背景图片 -->
 
