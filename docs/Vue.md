@@ -1,6 +1,6 @@
 # Vue教程
 这里默认你已经按照本文教程搭建环境,如果没有搭建，请回到主页搭建环境
-[搭建环境](http://localhost:3000/#/?id=%e4%ba%8c%e3%80%81%e7%8e%af%e5%a2%83%e6%90%ad%e5%bb%ba)
+[搭建环境](https://wuhaohao1234.github.io/Teaching/#/?id=%e8%ae%a4%e8%af%86vue%e5%b9%b6%e6%90%ad%e5%bb%ba%e7%8e%af%e5%a2%83)
 
 ## 认识目录
 
